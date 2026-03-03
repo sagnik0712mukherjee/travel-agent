@@ -3,7 +3,7 @@ crewai
 crewai[tools]
 langchain-community
 langchain-openai
-streamlit
 python-dotenv
+pydantic-settings
 duckduckgo-search
 openai
