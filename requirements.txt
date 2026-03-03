@@ -1,0 +1,9 @@
+flask
+crewai
+crewai[tools]
+langchain-community
+langchain-openai
+streamlit
+python-dotenv
+duckduckgo-search
+openai
